@@ -82,7 +82,30 @@ The plotting scripts use paths relative to their own locations, so they can be l
 
 ## Citation
 
-Citation information will be added after the manuscript is accepted and published.
+Until the manuscript and repository receive final bibliographic information, please cite the manuscript and software repository as follows:
+
+> Quarles, B., Nyator, F., Atuahene, C., & Lissauer, J. J. (2026). *Planet Packing with Co-orbital Earth-mass Planets in the α Centauri System*. Submitted to *The Astronomical Journal*. Code and reduced data: *Trojans in Alpha Centauri*, GitHub repository.
+
+### Manuscript
+
+```bibtex
+@article{quarles2026trojans,
+    author  = {Quarles, Billy and Nyator, Felix and Atuahene, Cavin and Lissauer, Jack J.},
+    title   = {Planet Packing with Co-orbital Earth-mass Planets in the {$\alpha$} Centauri System},
+    journal = {The Astronomical Journal},
+    year    = {2026},
+    note    = {Submitted}
+}
+
+@misc{quarles2026trojansrepository,
+    author       = {Quarles, Billy and Nyator, Felix and Atuahene, Cavin and Lissauer, Jack J.},
+    title        = {Trojans in Alpha Centauri: Figure Reproduction Code and Reduced Data},
+    year         = {2026},
+    howpublished = {GitHub repository},
+    url          = {https://github.com/saturnaxis/Trojans-in-Alpha-Cen},
+    note         = {Code and reduced data associated with a manuscript submitted to The Astronomical Journal}
+}
+```
 
 ## License
 
