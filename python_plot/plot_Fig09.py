@@ -87,5 +87,5 @@ for i in range(0,2):
     ax.tick_params(which='minor',axis='both', direction='out',length = 4.0, width = 3.0)
 
 fig.subplots_adjust(hspace=0.075)
-fig.savefig(OUTPUT_DIR / "Fig06.pdf" ,bbox_inches='tight',dpi=300)
+fig.savefig(OUTPUT_DIR / "Fig09.pdf" ,bbox_inches='tight',dpi=300)
 plt.close()

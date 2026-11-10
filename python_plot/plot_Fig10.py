@@ -108,7 +108,7 @@ ax1.set_yticks(range(60,195,20))
 ax_inset.set_xticks(range(4,11,1))
 #ax_inset.set_yticks([60, 100, 140, 180])
 
-ax1.set_xlabel(r"Spacing of External Planet $\beta^\prime$ ($R_{\rm H,m}^\prime$)",fontsize=fs)
+ax1.set_xlabel(r"Spacing of External Planet $\beta^*$ ($R_{\rm H,m}^*$)",fontsize=fs)
 ax1.set_ylabel(r"Average Mean Longitude" +"\n"+r"of Co-orbitals $\overline{\Delta \lambda}$ (deg.)",fontsize=fs)
 
 fig.savefig(OUTPUT_DIR / "Fig10.pdf",bbox_inches='tight',dpi=300)

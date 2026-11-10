@@ -40,9 +40,9 @@ Run the scripts from the repository root. No command-line arguments are required
 ```bash
 python python_plot/plot_Fig01.py
 python python_plot/plot_Fig02.py
+python python_plot/plot_Fig03.py
 python python_plot/plot_Fig04.py
 python python_plot/plot_Fig05.py
-python python_plot/plot_Fig06.py
 python python_plot/plot_Fig07.py
 python python_plot/plot_Fig08.py
 python python_plot/plot_Fig10.py
@@ -54,12 +54,13 @@ The scripts correspond to the manuscript as follows:
 | Script | Manuscript figure | Content |
 |---|---:|---|
 | `plot_Fig01.py` | 1 | Lagrange-point and Jacobi-constant schematic |
-| `plot_Fig02.py` | 2 | Co-orbital spacing in the control scenario |
-| `plot_Fig04.py` | 4 | Exterior-planet spacing in the P3 scenario |
-| `plot_Fig05.py` | 5 | Two-dimensional P3 spacing map |
-| `plot_Fig06.py` | 6 | P3 initial-mean-anomaly map |
-| `plot_Fig07.py` | 7 | Co-orbital spacing with the stellar companion |
-| `plot_Fig08.py` | 8 | Binary initial-mean-anomaly map |
+| `plot_Fig02.py` | 2 | Beta spacing and Initial setup schematic |
+| `plot_Fig03.py` | 3 | Co-orbital spacing in the control scenario |
+| `plot_Fig04.py` | 4 | Co-orbital spacing with the stellar companion |
+| `plot_Fig05.py` | 5 | Binary initial-mean-anomaly map |
+| `plot_Fig07.py` | 7 | Exterior-planet spacing in the P3 scenario |
+| `plot_Fig08.py` | 8 | Two-dimensional P3 spacing map |
+| `plot_Fig09.py` | 9 | P3 initial-mean-anomaly map |
 | `plot_Fig10.py` | 10 | Exterior-planet spacing in the P3+B scenario |
 | `plot_Fig11.py` | 11 | Two-dimensional P3+B spacing map |
 

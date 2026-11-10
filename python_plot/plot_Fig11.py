@@ -98,7 +98,7 @@ for i in range(0,2):
     ax_top.tick_params(which='major',axis='x', direction='out',length = 6.0, width = 4.0,labelsize='medium',color='tab:blue')
 
     if i > 0:
-        ax.set_xlabel(r"Spacing of External Planet $\beta^\prime$ ($R_{\rm H,m}^\prime$)",fontsize=fs)
+        ax.set_xlabel(r"Spacing of External Planet $\beta^*$ ($R_{\rm H,m}^*$)",fontsize=fs)
     else:
         ax.set_xticklabels([])
     ax.set_ylabel(r"Co-orbital Spacing $\beta$ ($R_{\rm H,m}$)",fontsize=fs)
