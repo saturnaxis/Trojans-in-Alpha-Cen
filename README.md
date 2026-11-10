@@ -1,4 +1,5 @@
 # Trojans in Alpha Centauri
+[![DOI](https://zenodo.org/badge/1310173781.svg)](https://doi.org/10.5281/zenodo.24121028)
 
 This repository contains the plotting code and reduced data products associated with the forthcoming manuscript **“Planet Packing with Co-orbital Earth-mass Planets in the α Centauri System.”** The study investigates whether pairs of co-orbital, Earth-mass planets can remain stable within the habitable zone of either α Centauri A or α Centauri B. It compares systems containing only the co-orbital pair with systems perturbed by an exterior Earth-mass planet, the stellar binary companion, or both.
 
